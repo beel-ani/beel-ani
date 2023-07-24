@@ -18,3 +18,7 @@ estas son las skills que aprendi
 
 ![skills](https://github.com/beel-ani/beel-ani/assets/87877432/a2bacef3-b155-48b6-a809-9429f2695377)
 
+![WebDesignCompanyNetGIF](https://github.com/beel-ani/beel-ani/assets/87877432/968db106-55ed-4504-8462-49828eae01c0)
+
+![TheSimpsonsHomerSimpsonGIF](https://github.com/beel-ani/beel-ani/assets/87877432/8d2d4d6e-ec06-46a2-ad6f-0ad219e0d086)
+
