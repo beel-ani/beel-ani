@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-estas son las skills 
-size=25px![js](https://github.com/beel-ani/beel-ani/assets/87877432/bc4dd0b8-5740-4900-bdb5-a2eba1a22d55)
-size=25px![html-5](https://github.com/beel-ani/beel-ani/assets/87877432/b32d0cd3-7d75-49d8-8e61-c40c1fbb4576)
-size=25px![css-3](https://github.com/beel-ani/beel-ani/assets/87877432/479fbc77-826a-4848-82be-15e97a031bd1)
-size=25px![atomo](https://github.com/beel-ani/beel-ani/assets/87877432/ea166e66-197b-4b11-9922-56ed6070a269)
-size=25px![nodejs](https://github.com/beel-ani/beel-ani/assets/87877432/df84008f-bcfc-4d99-a566-2a49cec71e54)
+estas son las skills que aprendi 
+<img size=25px![js](https://github.com/beel-ani/beel-ani/assets/87877432/bc4dd0b8-5740-4900-bdb5-a2eba1a22d55)/>
+<img size=25px![html-5](https://github.com/beel-ani/beel-ani/assets/87877432/b32d0cd3-7d75-49d8-8e61-c40c1fbb4576)/>
+<img size=25px![css-3](https://github.com/beel-ani/beel-ani/assets/87877432/479fbc77-826a-4848-82be-15e97a031bd1)/>
+<img size=25px![atomo](https://github.com/beel-ani/beel-ani/assets/87877432/ea166e66-197b-4b11-9922-56ed6070a269)/>
+<img size=25px![nodejs](https://github.com/beel-ani/beel-ani/assets/87877432/df84008f-bcfc-4d99-a566-2a49cec71e54)/>
 
 
