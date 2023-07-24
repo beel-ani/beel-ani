@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **beel-ani/beel-ani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->  
+
 estas son las skills que aprendi 
 <img size=200px![js](https://github.com/beel-ani/beel-ani/assets/87877432/bc4dd0b8-5740-4900-bdb5-a2eba1a22d55)/>
 <img size=200px![html-5](https://github.com/beel-ani/beel-ani/assets/87877432/b32d0cd3-7d75-49d8-8e61-c40c1fbb4576)/>
